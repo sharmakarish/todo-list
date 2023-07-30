@@ -1,3 +1,10 @@
+# To DO List App
+## This is a task tracker application built using ReactJS and JSON Server. The application allows users to create, update, and delete tasks in a dynamic user interface.
+
+# Features
+## Add a task with task name and reminder
+## Delete a task
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
